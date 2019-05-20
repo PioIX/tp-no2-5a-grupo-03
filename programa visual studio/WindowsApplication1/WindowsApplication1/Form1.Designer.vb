@@ -22,76 +22,76 @@ Partial Class Form1
     'No lo modifique con el editor de código.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
-        Me.Label1 = New System.Windows.Forms.Label()
-        Me.Label2 = New System.Windows.Forms.Label()
-        Me.Label3 = New System.Windows.Forms.Label()
-        Me.Label4 = New System.Windows.Forms.Label()
-        Me.Label5 = New System.Windows.Forms.Label()
-        Me.Label6 = New System.Windows.Forms.Label()
-        Me.Label7 = New System.Windows.Forms.Label()
-        Me.Label8 = New System.Windows.Forms.Label()
-        Me.Label9 = New System.Windows.Forms.Label()
-        Me.Label10 = New System.Windows.Forms.Label()
-        Me.Label11 = New System.Windows.Forms.Label()
-        Me.Label12 = New System.Windows.Forms.Label()
-        Me.Label13 = New System.Windows.Forms.Label()
-        Me.Label14 = New System.Windows.Forms.Label()
-        Me.Label15 = New System.Windows.Forms.Label()
-        Me.Label16 = New System.Windows.Forms.Label()
-        Me.Label17 = New System.Windows.Forms.Label()
-        Me.Label18 = New System.Windows.Forms.Label()
-        Me.Label19 = New System.Windows.Forms.Label()
-        Me.Label20 = New System.Windows.Forms.Label()
-        Me.Label21 = New System.Windows.Forms.Label()
-        Me.Label22 = New System.Windows.Forms.Label()
-        Me.Label23 = New System.Windows.Forms.Label()
-        Me.Label24 = New System.Windows.Forms.Label()
-        Me.Label25 = New System.Windows.Forms.Label()
-        Me.Label26 = New System.Windows.Forms.Label()
-        Me.Label27 = New System.Windows.Forms.Label()
-        Me.Label28 = New System.Windows.Forms.Label()
-        Me.Label29 = New System.Windows.Forms.Label()
-        Me.Label30 = New System.Windows.Forms.Label()
-        Me.Label31 = New System.Windows.Forms.Label()
-        Me.Label32 = New System.Windows.Forms.Label()
-        Me.Label33 = New System.Windows.Forms.Label()
-        Me.Label34 = New System.Windows.Forms.Label()
-        Me.Label35 = New System.Windows.Forms.Label()
-        Me.Label36 = New System.Windows.Forms.Label()
-        Me.Label37 = New System.Windows.Forms.Label()
-        Me.Label38 = New System.Windows.Forms.Label()
-        Me.Label39 = New System.Windows.Forms.Label()
-        Me.Label40 = New System.Windows.Forms.Label()
-        Me.Label41 = New System.Windows.Forms.Label()
-        Me.Label42 = New System.Windows.Forms.Label()
-        Me.Label43 = New System.Windows.Forms.Label()
-        Me.Label44 = New System.Windows.Forms.Label()
-        Me.Label45 = New System.Windows.Forms.Label()
-        Me.Label46 = New System.Windows.Forms.Label()
-        Me.Label47 = New System.Windows.Forms.Label()
-        Me.Label48 = New System.Windows.Forms.Label()
-        Me.Label49 = New System.Windows.Forms.Label()
-        Me.Label50 = New System.Windows.Forms.Label()
-        Me.Label51 = New System.Windows.Forms.Label()
-        Me.Label52 = New System.Windows.Forms.Label()
-        Me.Label53 = New System.Windows.Forms.Label()
-        Me.Label54 = New System.Windows.Forms.Label()
-        Me.Label55 = New System.Windows.Forms.Label()
-        Me.Label56 = New System.Windows.Forms.Label()
-        Me.Label57 = New System.Windows.Forms.Label()
-        Me.Label58 = New System.Windows.Forms.Label()
-        Me.Label59 = New System.Windows.Forms.Label()
-        Me.Label60 = New System.Windows.Forms.Label()
+        Me.lbl1 = New System.Windows.Forms.Label()
+        Me.lbl4 = New System.Windows.Forms.Label()
+        Me.lbl2 = New System.Windows.Forms.Label()
+        Me.lbl3 = New System.Windows.Forms.Label()
+        Me.lbl5 = New System.Windows.Forms.Label()
+        Me.lbl6 = New System.Windows.Forms.Label()
+        Me.lbl7 = New System.Windows.Forms.Label()
+        Me.lbl8 = New System.Windows.Forms.Label()
+        Me.lbl9 = New System.Windows.Forms.Label()
+        Me.lbl10 = New System.Windows.Forms.Label()
+        Me.lbl20 = New System.Windows.Forms.Label()
+        Me.lbl19 = New System.Windows.Forms.Label()
+        Me.lbl18 = New System.Windows.Forms.Label()
+        Me.lbl17 = New System.Windows.Forms.Label()
+        Me.lbl16 = New System.Windows.Forms.Label()
+        Me.lbl15 = New System.Windows.Forms.Label()
+        Me.lbl14 = New System.Windows.Forms.Label()
+        Me.lbl12 = New System.Windows.Forms.Label()
+        Me.lbl13 = New System.Windows.Forms.Label()
+        Me.lbl11 = New System.Windows.Forms.Label()
+        Me.lbl30 = New System.Windows.Forms.Label()
+        Me.lbl29 = New System.Windows.Forms.Label()
+        Me.lbl28 = New System.Windows.Forms.Label()
+        Me.lbl27 = New System.Windows.Forms.Label()
+        Me.lbl26 = New System.Windows.Forms.Label()
+        Me.lbl25 = New System.Windows.Forms.Label()
+        Me.lbl23 = New System.Windows.Forms.Label()
+        Me.lbl22 = New System.Windows.Forms.Label()
+        Me.lbl24 = New System.Windows.Forms.Label()
+        Me.lbl21 = New System.Windows.Forms.Label()
+        Me.lbl40 = New System.Windows.Forms.Label()
+        Me.lbl39 = New System.Windows.Forms.Label()
+        Me.lbl38 = New System.Windows.Forms.Label()
+        Me.lbl37 = New System.Windows.Forms.Label()
+        Me.lbl36 = New System.Windows.Forms.Label()
+        Me.lbl35 = New System.Windows.Forms.Label()
+        Me.lbl33 = New System.Windows.Forms.Label()
+        Me.lbl32 = New System.Windows.Forms.Label()
+        Me.lbl34 = New System.Windows.Forms.Label()
+        Me.lbl31 = New System.Windows.Forms.Label()
+        Me.lbl50 = New System.Windows.Forms.Label()
+        Me.lbl49 = New System.Windows.Forms.Label()
+        Me.lbl48 = New System.Windows.Forms.Label()
+        Me.lbl47 = New System.Windows.Forms.Label()
+        Me.lbl46 = New System.Windows.Forms.Label()
+        Me.lbl45 = New System.Windows.Forms.Label()
+        Me.lbl43 = New System.Windows.Forms.Label()
+        Me.lbl42 = New System.Windows.Forms.Label()
+        Me.lbl44 = New System.Windows.Forms.Label()
+        Me.lbl41 = New System.Windows.Forms.Label()
+        Me.lbl60 = New System.Windows.Forms.Label()
+        Me.lbl59 = New System.Windows.Forms.Label()
+        Me.lbl58 = New System.Windows.Forms.Label()
+        Me.lbl57 = New System.Windows.Forms.Label()
+        Me.lbl56 = New System.Windows.Forms.Label()
+        Me.lbl555 = New System.Windows.Forms.Label()
+        Me.lbl53 = New System.Windows.Forms.Label()
+        Me.lbl52 = New System.Windows.Forms.Label()
+        Me.lbl54 = New System.Windows.Forms.Label()
+        Me.lbl51 = New System.Windows.Forms.Label()
         Me.Label61 = New System.Windows.Forms.Label()
         Me.Label62 = New System.Windows.Forms.Label()
         Me.Label63 = New System.Windows.Forms.Label()
         Me.Label64 = New System.Windows.Forms.Label()
         Me.Label65 = New System.Windows.Forms.Label()
         Me.Label66 = New System.Windows.Forms.Label()
-        Me.Label67 = New System.Windows.Forms.Label()
-        Me.Label68 = New System.Windows.Forms.Label()
+        Me.lbl63 = New System.Windows.Forms.Label()
+        Me.lbl62 = New System.Windows.Forms.Label()
         Me.Label69 = New System.Windows.Forms.Label()
-        Me.Label70 = New System.Windows.Forms.Label()
+        Me.lbl61 = New System.Windows.Forms.Label()
         Me.Label71 = New System.Windows.Forms.Label()
         Me.Label72 = New System.Windows.Forms.Label()
         Me.Label73 = New System.Windows.Forms.Label()
@@ -114,605 +114,605 @@ Partial Class Form1
         Me.Label90 = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
-        'Label1
-        '
-        Me.Label1.AutoSize = True
-        Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(36, 26)
-        Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(62, 42)
-        Me.Label1.TabIndex = 0
-        Me.Label1.Text = "01"
-        '
-        'Label2
-        '
-        Me.Label2.AutoSize = True
-        Me.Label2.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label2.Location = New System.Drawing.Point(234, 26)
-        Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(62, 42)
-        Me.Label2.TabIndex = 1
-        Me.Label2.Text = "04"
-        '
-        'Label3
-        '
-        Me.Label3.AutoSize = True
-        Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label3.Location = New System.Drawing.Point(106, 26)
-        Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(62, 42)
-        Me.Label3.TabIndex = 1
-        Me.Label3.Text = "02"
-        '
-        'Label4
-        '
-        Me.Label4.AutoSize = True
-        Me.Label4.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label4.Location = New System.Drawing.Point(169, 26)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(62, 42)
-        Me.Label4.TabIndex = 2
-        Me.Label4.Text = "03"
-        '
-        'Label5
-        '
-        Me.Label5.AutoSize = True
-        Me.Label5.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label5.Location = New System.Drawing.Point(302, 26)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(62, 42)
-        Me.Label5.TabIndex = 3
-        Me.Label5.Text = "05"
-        '
-        'Label6
-        '
-        Me.Label6.AutoSize = True
-        Me.Label6.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label6.Location = New System.Drawing.Point(374, 26)
-        Me.Label6.Name = "Label6"
-        Me.Label6.Size = New System.Drawing.Size(62, 42)
-        Me.Label6.TabIndex = 4
-        Me.Label6.Text = "06"
-        '
-        'Label7
-        '
-        Me.Label7.AutoSize = True
-        Me.Label7.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label7.Location = New System.Drawing.Point(444, 26)
-        Me.Label7.Name = "Label7"
-        Me.Label7.Size = New System.Drawing.Size(62, 42)
-        Me.Label7.TabIndex = 5
-        Me.Label7.Text = "07"
-        '
-        'Label8
-        '
-        Me.Label8.AutoSize = True
-        Me.Label8.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label8.Location = New System.Drawing.Point(517, 26)
-        Me.Label8.Name = "Label8"
-        Me.Label8.Size = New System.Drawing.Size(62, 42)
-        Me.Label8.TabIndex = 6
-        Me.Label8.Text = "08"
-        '
-        'Label9
-        '
-        Me.Label9.AutoSize = True
-        Me.Label9.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label9.Location = New System.Drawing.Point(588, 26)
-        Me.Label9.Name = "Label9"
-        Me.Label9.Size = New System.Drawing.Size(62, 42)
-        Me.Label9.TabIndex = 7
-        Me.Label9.Text = "09"
-        '
-        'Label10
-        '
-        Me.Label10.AutoSize = True
-        Me.Label10.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label10.Location = New System.Drawing.Point(656, 26)
-        Me.Label10.Name = "Label10"
-        Me.Label10.Size = New System.Drawing.Size(62, 42)
-        Me.Label10.TabIndex = 8
-        Me.Label10.Text = "10"
-        '
-        'Label11
-        '
-        Me.Label11.AutoSize = True
-        Me.Label11.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label11.Location = New System.Drawing.Point(656, 68)
-        Me.Label11.Name = "Label11"
-        Me.Label11.Size = New System.Drawing.Size(62, 42)
-        Me.Label11.TabIndex = 18
-        Me.Label11.Text = "20"
-        '
-        'Label12
-        '
-        Me.Label12.AutoSize = True
-        Me.Label12.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label12.Location = New System.Drawing.Point(588, 68)
-        Me.Label12.Name = "Label12"
-        Me.Label12.Size = New System.Drawing.Size(62, 42)
-        Me.Label12.TabIndex = 17
-        Me.Label12.Text = "19"
-        '
-        'Label13
-        '
-        Me.Label13.AutoSize = True
-        Me.Label13.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label13.Location = New System.Drawing.Point(517, 68)
-        Me.Label13.Name = "Label13"
-        Me.Label13.Size = New System.Drawing.Size(62, 42)
-        Me.Label13.TabIndex = 16
-        Me.Label13.Text = "18"
-        '
-        'Label14
-        '
-        Me.Label14.AutoSize = True
-        Me.Label14.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label14.Location = New System.Drawing.Point(444, 68)
-        Me.Label14.Name = "Label14"
-        Me.Label14.Size = New System.Drawing.Size(62, 42)
-        Me.Label14.TabIndex = 15
-        Me.Label14.Text = "17"
-        '
-        'Label15
-        '
-        Me.Label15.AutoSize = True
-        Me.Label15.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label15.Location = New System.Drawing.Point(374, 68)
-        Me.Label15.Name = "Label15"
-        Me.Label15.Size = New System.Drawing.Size(62, 42)
-        Me.Label15.TabIndex = 14
-        Me.Label15.Text = "16"
-        '
-        'Label16
-        '
-        Me.Label16.AutoSize = True
-        Me.Label16.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label16.Location = New System.Drawing.Point(302, 68)
-        Me.Label16.Name = "Label16"
-        Me.Label16.Size = New System.Drawing.Size(62, 42)
-        Me.Label16.TabIndex = 13
-        Me.Label16.Text = "15"
-        '
-        'Label17
-        '
-        Me.Label17.AutoSize = True
-        Me.Label17.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label17.Location = New System.Drawing.Point(169, 68)
-        Me.Label17.Name = "Label17"
-        Me.Label17.Size = New System.Drawing.Size(62, 42)
-        Me.Label17.TabIndex = 12
-        Me.Label17.Text = "13"
-        '
-        'Label18
-        '
-        Me.Label18.AutoSize = True
-        Me.Label18.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label18.Location = New System.Drawing.Point(106, 68)
-        Me.Label18.Name = "Label18"
-        Me.Label18.Size = New System.Drawing.Size(62, 42)
-        Me.Label18.TabIndex = 10
-        Me.Label18.Text = "12"
-        '
-        'Label19
-        '
-        Me.Label19.AutoSize = True
-        Me.Label19.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label19.Location = New System.Drawing.Point(234, 68)
-        Me.Label19.Name = "Label19"
-        Me.Label19.Size = New System.Drawing.Size(62, 42)
-        Me.Label19.TabIndex = 11
-        Me.Label19.Text = "14"
-        '
-        'Label20
-        '
-        Me.Label20.AutoSize = True
-        Me.Label20.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label20.Location = New System.Drawing.Point(36, 68)
-        Me.Label20.Name = "Label20"
-        Me.Label20.Size = New System.Drawing.Size(62, 42)
-        Me.Label20.TabIndex = 9
-        Me.Label20.Text = "11"
-        '
-        'Label21
-        '
-        Me.Label21.AutoSize = True
-        Me.Label21.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label21.Location = New System.Drawing.Point(656, 110)
-        Me.Label21.Name = "Label21"
-        Me.Label21.Size = New System.Drawing.Size(62, 42)
-        Me.Label21.TabIndex = 28
-        Me.Label21.Text = "30"
-        '
-        'Label22
-        '
-        Me.Label22.AutoSize = True
-        Me.Label22.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label22.Location = New System.Drawing.Point(588, 110)
-        Me.Label22.Name = "Label22"
-        Me.Label22.Size = New System.Drawing.Size(62, 42)
-        Me.Label22.TabIndex = 27
-        Me.Label22.Text = "29"
-        '
-        'Label23
-        '
-        Me.Label23.AutoSize = True
-        Me.Label23.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label23.Location = New System.Drawing.Point(517, 110)
-        Me.Label23.Name = "Label23"
-        Me.Label23.Size = New System.Drawing.Size(62, 42)
-        Me.Label23.TabIndex = 26
-        Me.Label23.Text = "28"
-        '
-        'Label24
-        '
-        Me.Label24.AutoSize = True
-        Me.Label24.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label24.Location = New System.Drawing.Point(444, 110)
-        Me.Label24.Name = "Label24"
-        Me.Label24.Size = New System.Drawing.Size(62, 42)
-        Me.Label24.TabIndex = 25
-        Me.Label24.Text = "27"
-        '
-        'Label25
-        '
-        Me.Label25.AutoSize = True
-        Me.Label25.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label25.Location = New System.Drawing.Point(374, 110)
-        Me.Label25.Name = "Label25"
-        Me.Label25.Size = New System.Drawing.Size(62, 42)
-        Me.Label25.TabIndex = 24
-        Me.Label25.Text = "26"
-        '
-        'Label26
-        '
-        Me.Label26.AutoSize = True
-        Me.Label26.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label26.Location = New System.Drawing.Point(302, 110)
-        Me.Label26.Name = "Label26"
-        Me.Label26.Size = New System.Drawing.Size(62, 42)
-        Me.Label26.TabIndex = 23
-        Me.Label26.Text = "25"
-        '
-        'Label27
-        '
-        Me.Label27.AutoSize = True
-        Me.Label27.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label27.Location = New System.Drawing.Point(169, 110)
-        Me.Label27.Name = "Label27"
-        Me.Label27.Size = New System.Drawing.Size(62, 42)
-        Me.Label27.TabIndex = 22
-        Me.Label27.Text = "23"
-        '
-        'Label28
-        '
-        Me.Label28.AutoSize = True
-        Me.Label28.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label28.Location = New System.Drawing.Point(106, 110)
-        Me.Label28.Name = "Label28"
-        Me.Label28.Size = New System.Drawing.Size(62, 42)
-        Me.Label28.TabIndex = 20
-        Me.Label28.Text = "22"
-        '
-        'Label29
-        '
-        Me.Label29.AutoSize = True
-        Me.Label29.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label29.Location = New System.Drawing.Point(234, 110)
-        Me.Label29.Name = "Label29"
-        Me.Label29.Size = New System.Drawing.Size(62, 42)
-        Me.Label29.TabIndex = 21
-        Me.Label29.Text = "24"
-        '
-        'Label30
-        '
-        Me.Label30.AutoSize = True
-        Me.Label30.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label30.Location = New System.Drawing.Point(36, 110)
-        Me.Label30.Name = "Label30"
-        Me.Label30.Size = New System.Drawing.Size(62, 42)
-        Me.Label30.TabIndex = 19
-        Me.Label30.Text = "21"
-        '
-        'Label31
-        '
-        Me.Label31.AutoSize = True
-        Me.Label31.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label31.Location = New System.Drawing.Point(656, 152)
-        Me.Label31.Name = "Label31"
-        Me.Label31.Size = New System.Drawing.Size(62, 42)
-        Me.Label31.TabIndex = 38
-        Me.Label31.Text = "40"
-        '
-        'Label32
-        '
-        Me.Label32.AutoSize = True
-        Me.Label32.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label32.Location = New System.Drawing.Point(588, 152)
-        Me.Label32.Name = "Label32"
-        Me.Label32.Size = New System.Drawing.Size(62, 42)
-        Me.Label32.TabIndex = 37
-        Me.Label32.Text = "39"
-        '
-        'Label33
-        '
-        Me.Label33.AutoSize = True
-        Me.Label33.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label33.Location = New System.Drawing.Point(517, 152)
-        Me.Label33.Name = "Label33"
-        Me.Label33.Size = New System.Drawing.Size(62, 42)
-        Me.Label33.TabIndex = 36
-        Me.Label33.Text = "38"
-        '
-        'Label34
-        '
-        Me.Label34.AutoSize = True
-        Me.Label34.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label34.Location = New System.Drawing.Point(444, 152)
-        Me.Label34.Name = "Label34"
-        Me.Label34.Size = New System.Drawing.Size(62, 42)
-        Me.Label34.TabIndex = 35
-        Me.Label34.Text = "37"
-        '
-        'Label35
-        '
-        Me.Label35.AutoSize = True
-        Me.Label35.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label35.Location = New System.Drawing.Point(374, 152)
-        Me.Label35.Name = "Label35"
-        Me.Label35.Size = New System.Drawing.Size(62, 42)
-        Me.Label35.TabIndex = 34
-        Me.Label35.Text = "36"
-        '
-        'Label36
-        '
-        Me.Label36.AutoSize = True
-        Me.Label36.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label36.Location = New System.Drawing.Point(302, 152)
-        Me.Label36.Name = "Label36"
-        Me.Label36.Size = New System.Drawing.Size(62, 42)
-        Me.Label36.TabIndex = 33
-        Me.Label36.Text = "35"
-        '
-        'Label37
-        '
-        Me.Label37.AutoSize = True
-        Me.Label37.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label37.Location = New System.Drawing.Point(169, 152)
-        Me.Label37.Name = "Label37"
-        Me.Label37.Size = New System.Drawing.Size(62, 42)
-        Me.Label37.TabIndex = 32
-        Me.Label37.Text = "33"
-        '
-        'Label38
-        '
-        Me.Label38.AutoSize = True
-        Me.Label38.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label38.Location = New System.Drawing.Point(106, 152)
-        Me.Label38.Name = "Label38"
-        Me.Label38.Size = New System.Drawing.Size(62, 42)
-        Me.Label38.TabIndex = 30
-        Me.Label38.Text = "32"
-        '
-        'Label39
-        '
-        Me.Label39.AutoSize = True
-        Me.Label39.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label39.Location = New System.Drawing.Point(234, 152)
-        Me.Label39.Name = "Label39"
-        Me.Label39.Size = New System.Drawing.Size(62, 42)
-        Me.Label39.TabIndex = 31
-        Me.Label39.Text = "34"
-        '
-        'Label40
-        '
-        Me.Label40.AutoSize = True
-        Me.Label40.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label40.Location = New System.Drawing.Point(36, 152)
-        Me.Label40.Name = "Label40"
-        Me.Label40.Size = New System.Drawing.Size(62, 42)
-        Me.Label40.TabIndex = 29
-        Me.Label40.Text = "31"
-        '
-        'Label41
-        '
-        Me.Label41.AutoSize = True
-        Me.Label41.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label41.Location = New System.Drawing.Point(656, 194)
-        Me.Label41.Name = "Label41"
-        Me.Label41.Size = New System.Drawing.Size(62, 42)
-        Me.Label41.TabIndex = 48
-        Me.Label41.Text = "50"
-        '
-        'Label42
-        '
-        Me.Label42.AutoSize = True
-        Me.Label42.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label42.Location = New System.Drawing.Point(588, 194)
-        Me.Label42.Name = "Label42"
-        Me.Label42.Size = New System.Drawing.Size(62, 42)
-        Me.Label42.TabIndex = 47
-        Me.Label42.Text = "49"
-        '
-        'Label43
-        '
-        Me.Label43.AutoSize = True
-        Me.Label43.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label43.Location = New System.Drawing.Point(517, 194)
-        Me.Label43.Name = "Label43"
-        Me.Label43.Size = New System.Drawing.Size(62, 42)
-        Me.Label43.TabIndex = 46
-        Me.Label43.Text = "48"
-        '
-        'Label44
-        '
-        Me.Label44.AutoSize = True
-        Me.Label44.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label44.Location = New System.Drawing.Point(444, 194)
-        Me.Label44.Name = "Label44"
-        Me.Label44.Size = New System.Drawing.Size(62, 42)
-        Me.Label44.TabIndex = 45
-        Me.Label44.Text = "47"
-        '
-        'Label45
-        '
-        Me.Label45.AutoSize = True
-        Me.Label45.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label45.Location = New System.Drawing.Point(374, 194)
-        Me.Label45.Name = "Label45"
-        Me.Label45.Size = New System.Drawing.Size(62, 42)
-        Me.Label45.TabIndex = 44
-        Me.Label45.Text = "46"
-        '
-        'Label46
-        '
-        Me.Label46.AutoSize = True
-        Me.Label46.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label46.Location = New System.Drawing.Point(302, 194)
-        Me.Label46.Name = "Label46"
-        Me.Label46.Size = New System.Drawing.Size(62, 42)
-        Me.Label46.TabIndex = 43
-        Me.Label46.Text = "45"
-        '
-        'Label47
-        '
-        Me.Label47.AutoSize = True
-        Me.Label47.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label47.Location = New System.Drawing.Point(169, 194)
-        Me.Label47.Name = "Label47"
-        Me.Label47.Size = New System.Drawing.Size(62, 42)
-        Me.Label47.TabIndex = 42
-        Me.Label47.Text = "43"
-        '
-        'Label48
-        '
-        Me.Label48.AutoSize = True
-        Me.Label48.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label48.Location = New System.Drawing.Point(106, 194)
-        Me.Label48.Name = "Label48"
-        Me.Label48.Size = New System.Drawing.Size(62, 42)
-        Me.Label48.TabIndex = 40
-        Me.Label48.Text = "42"
-        '
-        'Label49
-        '
-        Me.Label49.AutoSize = True
-        Me.Label49.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label49.Location = New System.Drawing.Point(234, 194)
-        Me.Label49.Name = "Label49"
-        Me.Label49.Size = New System.Drawing.Size(62, 42)
-        Me.Label49.TabIndex = 41
-        Me.Label49.Text = "44"
-        '
-        'Label50
-        '
-        Me.Label50.AutoSize = True
-        Me.Label50.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label50.Location = New System.Drawing.Point(36, 194)
-        Me.Label50.Name = "Label50"
-        Me.Label50.Size = New System.Drawing.Size(62, 42)
-        Me.Label50.TabIndex = 39
-        Me.Label50.Text = "41"
-        '
-        'Label51
-        '
-        Me.Label51.AutoSize = True
-        Me.Label51.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label51.Location = New System.Drawing.Point(656, 236)
-        Me.Label51.Name = "Label51"
-        Me.Label51.Size = New System.Drawing.Size(62, 42)
-        Me.Label51.TabIndex = 58
-        Me.Label51.Text = "60"
-        '
-        'Label52
-        '
-        Me.Label52.AutoSize = True
-        Me.Label52.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label52.Location = New System.Drawing.Point(588, 236)
-        Me.Label52.Name = "Label52"
-        Me.Label52.Size = New System.Drawing.Size(62, 42)
-        Me.Label52.TabIndex = 57
-        Me.Label52.Text = "59"
-        '
-        'Label53
-        '
-        Me.Label53.AutoSize = True
-        Me.Label53.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label53.Location = New System.Drawing.Point(517, 236)
-        Me.Label53.Name = "Label53"
-        Me.Label53.Size = New System.Drawing.Size(62, 42)
-        Me.Label53.TabIndex = 56
-        Me.Label53.Text = "58"
-        '
-        'Label54
-        '
-        Me.Label54.AutoSize = True
-        Me.Label54.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label54.Location = New System.Drawing.Point(444, 236)
-        Me.Label54.Name = "Label54"
-        Me.Label54.Size = New System.Drawing.Size(62, 42)
-        Me.Label54.TabIndex = 55
-        Me.Label54.Text = "57"
-        '
-        'Label55
-        '
-        Me.Label55.AutoSize = True
-        Me.Label55.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label55.Location = New System.Drawing.Point(374, 236)
-        Me.Label55.Name = "Label55"
-        Me.Label55.Size = New System.Drawing.Size(62, 42)
-        Me.Label55.TabIndex = 54
-        Me.Label55.Text = "56"
-        '
-        'Label56
-        '
-        Me.Label56.AutoSize = True
-        Me.Label56.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label56.Location = New System.Drawing.Point(302, 236)
-        Me.Label56.Name = "Label56"
-        Me.Label56.Size = New System.Drawing.Size(62, 42)
-        Me.Label56.TabIndex = 53
-        Me.Label56.Text = "55"
-        '
-        'Label57
-        '
-        Me.Label57.AutoSize = True
-        Me.Label57.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label57.Location = New System.Drawing.Point(169, 236)
-        Me.Label57.Name = "Label57"
-        Me.Label57.Size = New System.Drawing.Size(62, 42)
-        Me.Label57.TabIndex = 52
-        Me.Label57.Text = "53"
-        '
-        'Label58
-        '
-        Me.Label58.AutoSize = True
-        Me.Label58.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label58.Location = New System.Drawing.Point(106, 236)
-        Me.Label58.Name = "Label58"
-        Me.Label58.Size = New System.Drawing.Size(62, 42)
-        Me.Label58.TabIndex = 50
-        Me.Label58.Text = "52"
-        '
-        'Label59
-        '
-        Me.Label59.AutoSize = True
-        Me.Label59.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label59.Location = New System.Drawing.Point(234, 236)
-        Me.Label59.Name = "Label59"
-        Me.Label59.Size = New System.Drawing.Size(62, 42)
-        Me.Label59.TabIndex = 51
-        Me.Label59.Text = "54"
-        '
-        'Label60
-        '
-        Me.Label60.AutoSize = True
-        Me.Label60.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label60.Location = New System.Drawing.Point(36, 236)
-        Me.Label60.Name = "Label60"
-        Me.Label60.Size = New System.Drawing.Size(62, 42)
-        Me.Label60.TabIndex = 49
-        Me.Label60.Text = "51"
+        'lbl1
+        '
+        Me.lbl1.AutoSize = True
+        Me.lbl1.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl1.Location = New System.Drawing.Point(36, 26)
+        Me.lbl1.Name = "lbl1"
+        Me.lbl1.Size = New System.Drawing.Size(62, 42)
+        Me.lbl1.TabIndex = 0
+        Me.lbl1.Text = "01"
+        '
+        'lbl4
+        '
+        Me.lbl4.AutoSize = True
+        Me.lbl4.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl4.Location = New System.Drawing.Point(234, 26)
+        Me.lbl4.Name = "lbl4"
+        Me.lbl4.Size = New System.Drawing.Size(62, 42)
+        Me.lbl4.TabIndex = 1
+        Me.lbl4.Text = "04"
+        '
+        'lbl2
+        '
+        Me.lbl2.AutoSize = True
+        Me.lbl2.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl2.Location = New System.Drawing.Point(106, 26)
+        Me.lbl2.Name = "lbl2"
+        Me.lbl2.Size = New System.Drawing.Size(62, 42)
+        Me.lbl2.TabIndex = 1
+        Me.lbl2.Text = "02"
+        '
+        'lbl3
+        '
+        Me.lbl3.AutoSize = True
+        Me.lbl3.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl3.Location = New System.Drawing.Point(169, 26)
+        Me.lbl3.Name = "lbl3"
+        Me.lbl3.Size = New System.Drawing.Size(62, 42)
+        Me.lbl3.TabIndex = 2
+        Me.lbl3.Text = "03"
+        '
+        'lbl5
+        '
+        Me.lbl5.AutoSize = True
+        Me.lbl5.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl5.Location = New System.Drawing.Point(302, 26)
+        Me.lbl5.Name = "lbl5"
+        Me.lbl5.Size = New System.Drawing.Size(62, 42)
+        Me.lbl5.TabIndex = 3
+        Me.lbl5.Text = "05"
+        '
+        'lbl6
+        '
+        Me.lbl6.AutoSize = True
+        Me.lbl6.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl6.Location = New System.Drawing.Point(374, 26)
+        Me.lbl6.Name = "lbl6"
+        Me.lbl6.Size = New System.Drawing.Size(62, 42)
+        Me.lbl6.TabIndex = 4
+        Me.lbl6.Text = "06"
+        '
+        'lbl7
+        '
+        Me.lbl7.AutoSize = True
+        Me.lbl7.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl7.Location = New System.Drawing.Point(444, 26)
+        Me.lbl7.Name = "lbl7"
+        Me.lbl7.Size = New System.Drawing.Size(62, 42)
+        Me.lbl7.TabIndex = 5
+        Me.lbl7.Text = "07"
+        '
+        'lbl8
+        '
+        Me.lbl8.AutoSize = True
+        Me.lbl8.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl8.Location = New System.Drawing.Point(517, 26)
+        Me.lbl8.Name = "lbl8"
+        Me.lbl8.Size = New System.Drawing.Size(62, 42)
+        Me.lbl8.TabIndex = 6
+        Me.lbl8.Text = "08"
+        '
+        'lbl9
+        '
+        Me.lbl9.AutoSize = True
+        Me.lbl9.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl9.Location = New System.Drawing.Point(588, 26)
+        Me.lbl9.Name = "lbl9"
+        Me.lbl9.Size = New System.Drawing.Size(62, 42)
+        Me.lbl9.TabIndex = 7
+        Me.lbl9.Text = "09"
+        '
+        'lbl10
+        '
+        Me.lbl10.AutoSize = True
+        Me.lbl10.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl10.Location = New System.Drawing.Point(656, 26)
+        Me.lbl10.Name = "lbl10"
+        Me.lbl10.Size = New System.Drawing.Size(62, 42)
+        Me.lbl10.TabIndex = 8
+        Me.lbl10.Text = "10"
+        '
+        'lbl20
+        '
+        Me.lbl20.AutoSize = True
+        Me.lbl20.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl20.Location = New System.Drawing.Point(656, 68)
+        Me.lbl20.Name = "lbl20"
+        Me.lbl20.Size = New System.Drawing.Size(62, 42)
+        Me.lbl20.TabIndex = 18
+        Me.lbl20.Text = "20"
+        '
+        'lbl19
+        '
+        Me.lbl19.AutoSize = True
+        Me.lbl19.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl19.Location = New System.Drawing.Point(588, 68)
+        Me.lbl19.Name = "lbl19"
+        Me.lbl19.Size = New System.Drawing.Size(62, 42)
+        Me.lbl19.TabIndex = 17
+        Me.lbl19.Text = "19"
+        '
+        'lbl18
+        '
+        Me.lbl18.AutoSize = True
+        Me.lbl18.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl18.Location = New System.Drawing.Point(517, 68)
+        Me.lbl18.Name = "lbl18"
+        Me.lbl18.Size = New System.Drawing.Size(62, 42)
+        Me.lbl18.TabIndex = 16
+        Me.lbl18.Text = "18"
+        '
+        'lbl17
+        '
+        Me.lbl17.AutoSize = True
+        Me.lbl17.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl17.Location = New System.Drawing.Point(444, 68)
+        Me.lbl17.Name = "lbl17"
+        Me.lbl17.Size = New System.Drawing.Size(62, 42)
+        Me.lbl17.TabIndex = 15
+        Me.lbl17.Text = "17"
+        '
+        'lbl16
+        '
+        Me.lbl16.AutoSize = True
+        Me.lbl16.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl16.Location = New System.Drawing.Point(374, 68)
+        Me.lbl16.Name = "lbl16"
+        Me.lbl16.Size = New System.Drawing.Size(62, 42)
+        Me.lbl16.TabIndex = 14
+        Me.lbl16.Text = "16"
+        '
+        'lbl15
+        '
+        Me.lbl15.AutoSize = True
+        Me.lbl15.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl15.Location = New System.Drawing.Point(302, 68)
+        Me.lbl15.Name = "lbl15"
+        Me.lbl15.Size = New System.Drawing.Size(62, 42)
+        Me.lbl15.TabIndex = 13
+        Me.lbl15.Text = "15"
+        '
+        'lbl14
+        '
+        Me.lbl14.AutoSize = True
+        Me.lbl14.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl14.Location = New System.Drawing.Point(234, 68)
+        Me.lbl14.Name = "lbl14"
+        Me.lbl14.Size = New System.Drawing.Size(62, 42)
+        Me.lbl14.TabIndex = 12
+        Me.lbl14.Text = "14"
+        '
+        'lbl12
+        '
+        Me.lbl12.AutoSize = True
+        Me.lbl12.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl12.Location = New System.Drawing.Point(104, 68)
+        Me.lbl12.Name = "lbl12"
+        Me.lbl12.Size = New System.Drawing.Size(62, 42)
+        Me.lbl12.TabIndex = 10
+        Me.lbl12.Text = "12"
+        '
+        'lbl13
+        '
+        Me.lbl13.AutoSize = True
+        Me.lbl13.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl13.Location = New System.Drawing.Point(166, 68)
+        Me.lbl13.Name = "lbl13"
+        Me.lbl13.Size = New System.Drawing.Size(62, 42)
+        Me.lbl13.TabIndex = 11
+        Me.lbl13.Text = "13"
+        '
+        'lbl11
+        '
+        Me.lbl11.AutoSize = True
+        Me.lbl11.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl11.Location = New System.Drawing.Point(36, 68)
+        Me.lbl11.Name = "lbl11"
+        Me.lbl11.Size = New System.Drawing.Size(62, 42)
+        Me.lbl11.TabIndex = 9
+        Me.lbl11.Text = "11"
+        '
+        'lbl30
+        '
+        Me.lbl30.AutoSize = True
+        Me.lbl30.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl30.Location = New System.Drawing.Point(656, 110)
+        Me.lbl30.Name = "lbl30"
+        Me.lbl30.Size = New System.Drawing.Size(62, 42)
+        Me.lbl30.TabIndex = 28
+        Me.lbl30.Text = "30"
+        '
+        'lbl29
+        '
+        Me.lbl29.AutoSize = True
+        Me.lbl29.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl29.Location = New System.Drawing.Point(588, 110)
+        Me.lbl29.Name = "lbl29"
+        Me.lbl29.Size = New System.Drawing.Size(62, 42)
+        Me.lbl29.TabIndex = 27
+        Me.lbl29.Text = "29"
+        '
+        'lbl28
+        '
+        Me.lbl28.AutoSize = True
+        Me.lbl28.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl28.Location = New System.Drawing.Point(517, 110)
+        Me.lbl28.Name = "lbl28"
+        Me.lbl28.Size = New System.Drawing.Size(62, 42)
+        Me.lbl28.TabIndex = 26
+        Me.lbl28.Text = "28"
+        '
+        'lbl27
+        '
+        Me.lbl27.AutoSize = True
+        Me.lbl27.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl27.Location = New System.Drawing.Point(444, 110)
+        Me.lbl27.Name = "lbl27"
+        Me.lbl27.Size = New System.Drawing.Size(62, 42)
+        Me.lbl27.TabIndex = 25
+        Me.lbl27.Text = "27"
+        '
+        'lbl26
+        '
+        Me.lbl26.AutoSize = True
+        Me.lbl26.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl26.Location = New System.Drawing.Point(374, 110)
+        Me.lbl26.Name = "lbl26"
+        Me.lbl26.Size = New System.Drawing.Size(62, 42)
+        Me.lbl26.TabIndex = 24
+        Me.lbl26.Text = "26"
+        '
+        'lbl25
+        '
+        Me.lbl25.AutoSize = True
+        Me.lbl25.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl25.Location = New System.Drawing.Point(302, 110)
+        Me.lbl25.Name = "lbl25"
+        Me.lbl25.Size = New System.Drawing.Size(62, 42)
+        Me.lbl25.TabIndex = 23
+        Me.lbl25.Text = "25"
+        '
+        'lbl23
+        '
+        Me.lbl23.AutoSize = True
+        Me.lbl23.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl23.Location = New System.Drawing.Point(169, 110)
+        Me.lbl23.Name = "lbl23"
+        Me.lbl23.Size = New System.Drawing.Size(62, 42)
+        Me.lbl23.TabIndex = 22
+        Me.lbl23.Text = "23"
+        '
+        'lbl22
+        '
+        Me.lbl22.AutoSize = True
+        Me.lbl22.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl22.Location = New System.Drawing.Point(106, 110)
+        Me.lbl22.Name = "lbl22"
+        Me.lbl22.Size = New System.Drawing.Size(62, 42)
+        Me.lbl22.TabIndex = 20
+        Me.lbl22.Text = "22"
+        '
+        'lbl24
+        '
+        Me.lbl24.AutoSize = True
+        Me.lbl24.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl24.Location = New System.Drawing.Point(234, 110)
+        Me.lbl24.Name = "lbl24"
+        Me.lbl24.Size = New System.Drawing.Size(62, 42)
+        Me.lbl24.TabIndex = 21
+        Me.lbl24.Text = "24"
+        '
+        'lbl21
+        '
+        Me.lbl21.AutoSize = True
+        Me.lbl21.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl21.Location = New System.Drawing.Point(36, 110)
+        Me.lbl21.Name = "lbl21"
+        Me.lbl21.Size = New System.Drawing.Size(62, 42)
+        Me.lbl21.TabIndex = 19
+        Me.lbl21.Text = "21"
+        '
+        'lbl40
+        '
+        Me.lbl40.AutoSize = True
+        Me.lbl40.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl40.Location = New System.Drawing.Point(656, 152)
+        Me.lbl40.Name = "lbl40"
+        Me.lbl40.Size = New System.Drawing.Size(62, 42)
+        Me.lbl40.TabIndex = 38
+        Me.lbl40.Text = "40"
+        '
+        'lbl39
+        '
+        Me.lbl39.AutoSize = True
+        Me.lbl39.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl39.Location = New System.Drawing.Point(588, 152)
+        Me.lbl39.Name = "lbl39"
+        Me.lbl39.Size = New System.Drawing.Size(62, 42)
+        Me.lbl39.TabIndex = 37
+        Me.lbl39.Text = "39"
+        '
+        'lbl38
+        '
+        Me.lbl38.AutoSize = True
+        Me.lbl38.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl38.Location = New System.Drawing.Point(517, 152)
+        Me.lbl38.Name = "lbl38"
+        Me.lbl38.Size = New System.Drawing.Size(62, 42)
+        Me.lbl38.TabIndex = 36
+        Me.lbl38.Text = "38"
+        '
+        'lbl37
+        '
+        Me.lbl37.AutoSize = True
+        Me.lbl37.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl37.Location = New System.Drawing.Point(444, 152)
+        Me.lbl37.Name = "lbl37"
+        Me.lbl37.Size = New System.Drawing.Size(62, 42)
+        Me.lbl37.TabIndex = 35
+        Me.lbl37.Text = "37"
+        '
+        'lbl36
+        '
+        Me.lbl36.AutoSize = True
+        Me.lbl36.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl36.Location = New System.Drawing.Point(374, 152)
+        Me.lbl36.Name = "lbl36"
+        Me.lbl36.Size = New System.Drawing.Size(62, 42)
+        Me.lbl36.TabIndex = 34
+        Me.lbl36.Text = "36"
+        '
+        'lbl35
+        '
+        Me.lbl35.AutoSize = True
+        Me.lbl35.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl35.Location = New System.Drawing.Point(302, 152)
+        Me.lbl35.Name = "lbl35"
+        Me.lbl35.Size = New System.Drawing.Size(62, 42)
+        Me.lbl35.TabIndex = 33
+        Me.lbl35.Text = "35"
+        '
+        'lbl33
+        '
+        Me.lbl33.AutoSize = True
+        Me.lbl33.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl33.Location = New System.Drawing.Point(169, 152)
+        Me.lbl33.Name = "lbl33"
+        Me.lbl33.Size = New System.Drawing.Size(62, 42)
+        Me.lbl33.TabIndex = 32
+        Me.lbl33.Text = "33"
+        '
+        'lbl32
+        '
+        Me.lbl32.AutoSize = True
+        Me.lbl32.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl32.Location = New System.Drawing.Point(106, 152)
+        Me.lbl32.Name = "lbl32"
+        Me.lbl32.Size = New System.Drawing.Size(62, 42)
+        Me.lbl32.TabIndex = 30
+        Me.lbl32.Text = "32"
+        '
+        'lbl34
+        '
+        Me.lbl34.AutoSize = True
+        Me.lbl34.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl34.Location = New System.Drawing.Point(234, 152)
+        Me.lbl34.Name = "lbl34"
+        Me.lbl34.Size = New System.Drawing.Size(62, 42)
+        Me.lbl34.TabIndex = 31
+        Me.lbl34.Text = "34"
+        '
+        'lbl31
+        '
+        Me.lbl31.AutoSize = True
+        Me.lbl31.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl31.Location = New System.Drawing.Point(36, 152)
+        Me.lbl31.Name = "lbl31"
+        Me.lbl31.Size = New System.Drawing.Size(62, 42)
+        Me.lbl31.TabIndex = 29
+        Me.lbl31.Text = "31"
+        '
+        'lbl50
+        '
+        Me.lbl50.AutoSize = True
+        Me.lbl50.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl50.Location = New System.Drawing.Point(656, 194)
+        Me.lbl50.Name = "lbl50"
+        Me.lbl50.Size = New System.Drawing.Size(62, 42)
+        Me.lbl50.TabIndex = 48
+        Me.lbl50.Text = "50"
+        '
+        'lbl49
+        '
+        Me.lbl49.AutoSize = True
+        Me.lbl49.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl49.Location = New System.Drawing.Point(588, 194)
+        Me.lbl49.Name = "lbl49"
+        Me.lbl49.Size = New System.Drawing.Size(62, 42)
+        Me.lbl49.TabIndex = 47
+        Me.lbl49.Text = "49"
+        '
+        'lbl48
+        '
+        Me.lbl48.AutoSize = True
+        Me.lbl48.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl48.Location = New System.Drawing.Point(517, 194)
+        Me.lbl48.Name = "lbl48"
+        Me.lbl48.Size = New System.Drawing.Size(62, 42)
+        Me.lbl48.TabIndex = 46
+        Me.lbl48.Text = "48"
+        '
+        'lbl47
+        '
+        Me.lbl47.AutoSize = True
+        Me.lbl47.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl47.Location = New System.Drawing.Point(444, 194)
+        Me.lbl47.Name = "lbl47"
+        Me.lbl47.Size = New System.Drawing.Size(62, 42)
+        Me.lbl47.TabIndex = 45
+        Me.lbl47.Text = "47"
+        '
+        'lbl46
+        '
+        Me.lbl46.AutoSize = True
+        Me.lbl46.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl46.Location = New System.Drawing.Point(374, 194)
+        Me.lbl46.Name = "lbl46"
+        Me.lbl46.Size = New System.Drawing.Size(62, 42)
+        Me.lbl46.TabIndex = 44
+        Me.lbl46.Text = "46"
+        '
+        'lbl45
+        '
+        Me.lbl45.AutoSize = True
+        Me.lbl45.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl45.Location = New System.Drawing.Point(302, 194)
+        Me.lbl45.Name = "lbl45"
+        Me.lbl45.Size = New System.Drawing.Size(62, 42)
+        Me.lbl45.TabIndex = 43
+        Me.lbl45.Text = "45"
+        '
+        'lbl43
+        '
+        Me.lbl43.AutoSize = True
+        Me.lbl43.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl43.Location = New System.Drawing.Point(169, 194)
+        Me.lbl43.Name = "lbl43"
+        Me.lbl43.Size = New System.Drawing.Size(62, 42)
+        Me.lbl43.TabIndex = 42
+        Me.lbl43.Text = "43"
+        '
+        'lbl42
+        '
+        Me.lbl42.AutoSize = True
+        Me.lbl42.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl42.Location = New System.Drawing.Point(106, 194)
+        Me.lbl42.Name = "lbl42"
+        Me.lbl42.Size = New System.Drawing.Size(62, 42)
+        Me.lbl42.TabIndex = 40
+        Me.lbl42.Text = "42"
+        '
+        'lbl44
+        '
+        Me.lbl44.AutoSize = True
+        Me.lbl44.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl44.Location = New System.Drawing.Point(234, 194)
+        Me.lbl44.Name = "lbl44"
+        Me.lbl44.Size = New System.Drawing.Size(62, 42)
+        Me.lbl44.TabIndex = 41
+        Me.lbl44.Text = "44"
+        '
+        'lbl41
+        '
+        Me.lbl41.AutoSize = True
+        Me.lbl41.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl41.Location = New System.Drawing.Point(36, 194)
+        Me.lbl41.Name = "lbl41"
+        Me.lbl41.Size = New System.Drawing.Size(62, 42)
+        Me.lbl41.TabIndex = 39
+        Me.lbl41.Text = "41"
+        '
+        'lbl60
+        '
+        Me.lbl60.AutoSize = True
+        Me.lbl60.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl60.Location = New System.Drawing.Point(656, 236)
+        Me.lbl60.Name = "lbl60"
+        Me.lbl60.Size = New System.Drawing.Size(62, 42)
+        Me.lbl60.TabIndex = 58
+        Me.lbl60.Text = "60"
+        '
+        'lbl59
+        '
+        Me.lbl59.AutoSize = True
+        Me.lbl59.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl59.Location = New System.Drawing.Point(588, 236)
+        Me.lbl59.Name = "lbl59"
+        Me.lbl59.Size = New System.Drawing.Size(62, 42)
+        Me.lbl59.TabIndex = 57
+        Me.lbl59.Text = "59"
+        '
+        'lbl58
+        '
+        Me.lbl58.AutoSize = True
+        Me.lbl58.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl58.Location = New System.Drawing.Point(517, 236)
+        Me.lbl58.Name = "lbl58"
+        Me.lbl58.Size = New System.Drawing.Size(62, 42)
+        Me.lbl58.TabIndex = 56
+        Me.lbl58.Text = "58"
+        '
+        'lbl57
+        '
+        Me.lbl57.AutoSize = True
+        Me.lbl57.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl57.Location = New System.Drawing.Point(444, 236)
+        Me.lbl57.Name = "lbl57"
+        Me.lbl57.Size = New System.Drawing.Size(62, 42)
+        Me.lbl57.TabIndex = 55
+        Me.lbl57.Text = "57"
+        '
+        'lbl56
+        '
+        Me.lbl56.AutoSize = True
+        Me.lbl56.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl56.Location = New System.Drawing.Point(374, 236)
+        Me.lbl56.Name = "lbl56"
+        Me.lbl56.Size = New System.Drawing.Size(62, 42)
+        Me.lbl56.TabIndex = 54
+        Me.lbl56.Text = "56"
+        '
+        'lbl555
+        '
+        Me.lbl555.AutoSize = True
+        Me.lbl555.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl555.Location = New System.Drawing.Point(302, 236)
+        Me.lbl555.Name = "lbl555"
+        Me.lbl555.Size = New System.Drawing.Size(62, 42)
+        Me.lbl555.TabIndex = 53
+        Me.lbl555.Text = "55"
+        '
+        'lbl53
+        '
+        Me.lbl53.AutoSize = True
+        Me.lbl53.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl53.Location = New System.Drawing.Point(169, 236)
+        Me.lbl53.Name = "lbl53"
+        Me.lbl53.Size = New System.Drawing.Size(62, 42)
+        Me.lbl53.TabIndex = 52
+        Me.lbl53.Text = "53"
+        '
+        'lbl52
+        '
+        Me.lbl52.AutoSize = True
+        Me.lbl52.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl52.Location = New System.Drawing.Point(106, 236)
+        Me.lbl52.Name = "lbl52"
+        Me.lbl52.Size = New System.Drawing.Size(62, 42)
+        Me.lbl52.TabIndex = 50
+        Me.lbl52.Text = "52"
+        '
+        'lbl54
+        '
+        Me.lbl54.AutoSize = True
+        Me.lbl54.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl54.Location = New System.Drawing.Point(234, 236)
+        Me.lbl54.Name = "lbl54"
+        Me.lbl54.Size = New System.Drawing.Size(62, 42)
+        Me.lbl54.TabIndex = 51
+        Me.lbl54.Text = "54"
+        '
+        'lbl51
+        '
+        Me.lbl51.AutoSize = True
+        Me.lbl51.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl51.Location = New System.Drawing.Point(36, 236)
+        Me.lbl51.Name = "lbl51"
+        Me.lbl51.Size = New System.Drawing.Size(62, 42)
+        Me.lbl51.TabIndex = 49
+        Me.lbl51.Text = "51"
         '
         'Label61
         '
@@ -774,25 +774,25 @@ Partial Class Form1
         Me.Label66.TabIndex = 63
         Me.Label66.Text = "65"
         '
-        'Label67
+        'lbl63
         '
-        Me.Label67.AutoSize = True
-        Me.Label67.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label67.Location = New System.Drawing.Point(169, 278)
-        Me.Label67.Name = "Label67"
-        Me.Label67.Size = New System.Drawing.Size(62, 42)
-        Me.Label67.TabIndex = 62
-        Me.Label67.Text = "63"
+        Me.lbl63.AutoSize = True
+        Me.lbl63.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl63.Location = New System.Drawing.Point(169, 278)
+        Me.lbl63.Name = "lbl63"
+        Me.lbl63.Size = New System.Drawing.Size(62, 42)
+        Me.lbl63.TabIndex = 62
+        Me.lbl63.Text = "63"
         '
-        'Label68
+        'lbl62
         '
-        Me.Label68.AutoSize = True
-        Me.Label68.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label68.Location = New System.Drawing.Point(106, 278)
-        Me.Label68.Name = "Label68"
-        Me.Label68.Size = New System.Drawing.Size(62, 42)
-        Me.Label68.TabIndex = 60
-        Me.Label68.Text = "62"
+        Me.lbl62.AutoSize = True
+        Me.lbl62.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl62.Location = New System.Drawing.Point(106, 278)
+        Me.lbl62.Name = "lbl62"
+        Me.lbl62.Size = New System.Drawing.Size(62, 42)
+        Me.lbl62.TabIndex = 60
+        Me.lbl62.Text = "62"
         '
         'Label69
         '
@@ -804,15 +804,15 @@ Partial Class Form1
         Me.Label69.TabIndex = 61
         Me.Label69.Text = "64"
         '
-        'Label70
+        'lbl61
         '
-        Me.Label70.AutoSize = True
-        Me.Label70.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label70.Location = New System.Drawing.Point(36, 278)
-        Me.Label70.Name = "Label70"
-        Me.Label70.Size = New System.Drawing.Size(62, 42)
-        Me.Label70.TabIndex = 59
-        Me.Label70.Text = "61"
+        Me.lbl61.AutoSize = True
+        Me.lbl61.Font = New System.Drawing.Font("Microsoft Sans Serif", 27.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lbl61.Location = New System.Drawing.Point(36, 278)
+        Me.lbl61.Name = "lbl61"
+        Me.lbl61.Size = New System.Drawing.Size(62, 42)
+        Me.lbl61.TabIndex = 59
+        Me.lbl61.Text = "61"
         '
         'Label71
         '
@@ -1045,70 +1045,70 @@ Partial Class Form1
         Me.Controls.Add(Me.Label64)
         Me.Controls.Add(Me.Label65)
         Me.Controls.Add(Me.Label66)
-        Me.Controls.Add(Me.Label67)
-        Me.Controls.Add(Me.Label68)
+        Me.Controls.Add(Me.lbl63)
+        Me.Controls.Add(Me.lbl62)
         Me.Controls.Add(Me.Label69)
-        Me.Controls.Add(Me.Label70)
-        Me.Controls.Add(Me.Label51)
-        Me.Controls.Add(Me.Label52)
-        Me.Controls.Add(Me.Label53)
-        Me.Controls.Add(Me.Label54)
-        Me.Controls.Add(Me.Label55)
-        Me.Controls.Add(Me.Label56)
-        Me.Controls.Add(Me.Label57)
-        Me.Controls.Add(Me.Label58)
-        Me.Controls.Add(Me.Label59)
-        Me.Controls.Add(Me.Label60)
-        Me.Controls.Add(Me.Label41)
-        Me.Controls.Add(Me.Label42)
-        Me.Controls.Add(Me.Label43)
-        Me.Controls.Add(Me.Label44)
-        Me.Controls.Add(Me.Label45)
-        Me.Controls.Add(Me.Label46)
-        Me.Controls.Add(Me.Label47)
-        Me.Controls.Add(Me.Label48)
-        Me.Controls.Add(Me.Label49)
-        Me.Controls.Add(Me.Label50)
-        Me.Controls.Add(Me.Label31)
-        Me.Controls.Add(Me.Label32)
-        Me.Controls.Add(Me.Label33)
-        Me.Controls.Add(Me.Label34)
-        Me.Controls.Add(Me.Label35)
-        Me.Controls.Add(Me.Label36)
-        Me.Controls.Add(Me.Label37)
-        Me.Controls.Add(Me.Label38)
-        Me.Controls.Add(Me.Label39)
-        Me.Controls.Add(Me.Label40)
-        Me.Controls.Add(Me.Label21)
-        Me.Controls.Add(Me.Label22)
-        Me.Controls.Add(Me.Label23)
-        Me.Controls.Add(Me.Label24)
-        Me.Controls.Add(Me.Label25)
-        Me.Controls.Add(Me.Label26)
-        Me.Controls.Add(Me.Label27)
-        Me.Controls.Add(Me.Label28)
-        Me.Controls.Add(Me.Label29)
-        Me.Controls.Add(Me.Label30)
-        Me.Controls.Add(Me.Label11)
-        Me.Controls.Add(Me.Label12)
-        Me.Controls.Add(Me.Label13)
-        Me.Controls.Add(Me.Label14)
-        Me.Controls.Add(Me.Label15)
-        Me.Controls.Add(Me.Label16)
-        Me.Controls.Add(Me.Label17)
-        Me.Controls.Add(Me.Label18)
-        Me.Controls.Add(Me.Label19)
-        Me.Controls.Add(Me.Label20)
-        Me.Controls.Add(Me.Label10)
-        Me.Controls.Add(Me.Label9)
-        Me.Controls.Add(Me.Label8)
-        Me.Controls.Add(Me.Label7)
-        Me.Controls.Add(Me.Label6)
-        Me.Controls.Add(Me.Label5)
-        Me.Controls.Add(Me.Label4)
-        Me.Controls.Add(Me.Label3)
-        Me.Controls.Add(Me.Label2)
-        Me.Controls.Add(Me.Label1)
+        Me.Controls.Add(Me.lbl61)
+        Me.Controls.Add(Me.lbl60)
+        Me.Controls.Add(Me.lbl59)
+        Me.Controls.Add(Me.lbl58)
+        Me.Controls.Add(Me.lbl57)
+        Me.Controls.Add(Me.lbl56)
+        Me.Controls.Add(Me.lbl555)
+        Me.Controls.Add(Me.lbl53)
+        Me.Controls.Add(Me.lbl52)
+        Me.Controls.Add(Me.lbl54)
+        Me.Controls.Add(Me.lbl51)
+        Me.Controls.Add(Me.lbl50)
+        Me.Controls.Add(Me.lbl49)
+        Me.Controls.Add(Me.lbl48)
+        Me.Controls.Add(Me.lbl47)
+        Me.Controls.Add(Me.lbl46)
+        Me.Controls.Add(Me.lbl45)
+        Me.Controls.Add(Me.lbl43)
+        Me.Controls.Add(Me.lbl42)
+        Me.Controls.Add(Me.lbl44)
+        Me.Controls.Add(Me.lbl41)
+        Me.Controls.Add(Me.lbl40)
+        Me.Controls.Add(Me.lbl39)
+        Me.Controls.Add(Me.lbl38)
+        Me.Controls.Add(Me.lbl37)
+        Me.Controls.Add(Me.lbl36)
+        Me.Controls.Add(Me.lbl35)
+        Me.Controls.Add(Me.lbl33)
+        Me.Controls.Add(Me.lbl32)
+        Me.Controls.Add(Me.lbl34)
+        Me.Controls.Add(Me.lbl31)
+        Me.Controls.Add(Me.lbl30)
+        Me.Controls.Add(Me.lbl29)
+        Me.Controls.Add(Me.lbl28)
+        Me.Controls.Add(Me.lbl27)
+        Me.Controls.Add(Me.lbl26)
+        Me.Controls.Add(Me.lbl25)
+        Me.Controls.Add(Me.lbl23)
+        Me.Controls.Add(Me.lbl22)
+        Me.Controls.Add(Me.lbl24)
+        Me.Controls.Add(Me.lbl21)
+        Me.Controls.Add(Me.lbl20)
+        Me.Controls.Add(Me.lbl19)
+        Me.Controls.Add(Me.lbl18)
+        Me.Controls.Add(Me.lbl17)
+        Me.Controls.Add(Me.lbl16)
+        Me.Controls.Add(Me.lbl15)
+        Me.Controls.Add(Me.lbl14)
+        Me.Controls.Add(Me.lbl12)
+        Me.Controls.Add(Me.lbl13)
+        Me.Controls.Add(Me.lbl11)
+        Me.Controls.Add(Me.lbl10)
+        Me.Controls.Add(Me.lbl9)
+        Me.Controls.Add(Me.lbl8)
+        Me.Controls.Add(Me.lbl7)
+        Me.Controls.Add(Me.lbl6)
+        Me.Controls.Add(Me.lbl5)
+        Me.Controls.Add(Me.lbl3)
+        Me.Controls.Add(Me.lbl2)
+        Me.Controls.Add(Me.lbl4)
+        Me.Controls.Add(Me.lbl1)
         Me.Name = "Form1"
         Me.Text = "Form1"
         Me.ResumeLayout(False)
@@ -1116,76 +1116,76 @@ Partial Class Form1
 
     End Sub
 
-    Friend WithEvents Label1 As Label
-    Friend WithEvents Label2 As Label
-    Friend WithEvents Label3 As Label
-    Friend WithEvents Label4 As Label
-    Friend WithEvents Label5 As Label
-    Friend WithEvents Label6 As Label
-    Friend WithEvents Label7 As Label
-    Friend WithEvents Label8 As Label
-    Friend WithEvents Label9 As Label
-    Friend WithEvents Label10 As Label
-    Friend WithEvents Label11 As Label
-    Friend WithEvents Label12 As Label
-    Friend WithEvents Label13 As Label
-    Friend WithEvents Label14 As Label
-    Friend WithEvents Label15 As Label
-    Friend WithEvents Label16 As Label
-    Friend WithEvents Label17 As Label
-    Friend WithEvents Label18 As Label
-    Friend WithEvents Label19 As Label
-    Friend WithEvents Label20 As Label
-    Friend WithEvents Label21 As Label
-    Friend WithEvents Label22 As Label
-    Friend WithEvents Label23 As Label
-    Friend WithEvents Label24 As Label
-    Friend WithEvents Label25 As Label
-    Friend WithEvents Label26 As Label
-    Friend WithEvents Label27 As Label
-    Friend WithEvents Label28 As Label
-    Friend WithEvents Label29 As Label
-    Friend WithEvents Label30 As Label
-    Friend WithEvents Label31 As Label
-    Friend WithEvents Label32 As Label
-    Friend WithEvents Label33 As Label
-    Friend WithEvents Label34 As Label
-    Friend WithEvents Label35 As Label
-    Friend WithEvents Label36 As Label
-    Friend WithEvents Label37 As Label
-    Friend WithEvents Label38 As Label
-    Friend WithEvents Label39 As Label
-    Friend WithEvents Label40 As Label
-    Friend WithEvents Label41 As Label
-    Friend WithEvents Label42 As Label
-    Friend WithEvents Label43 As Label
-    Friend WithEvents Label44 As Label
-    Friend WithEvents Label45 As Label
-    Friend WithEvents Label46 As Label
-    Friend WithEvents Label47 As Label
-    Friend WithEvents Label48 As Label
-    Friend WithEvents Label49 As Label
-    Friend WithEvents Label50 As Label
-    Friend WithEvents Label51 As Label
-    Friend WithEvents Label52 As Label
-    Friend WithEvents Label53 As Label
-    Friend WithEvents Label54 As Label
-    Friend WithEvents Label55 As Label
-    Friend WithEvents Label56 As Label
-    Friend WithEvents Label57 As Label
-    Friend WithEvents Label58 As Label
-    Friend WithEvents Label59 As Label
-    Friend WithEvents Label60 As Label
+    Friend WithEvents lbl1 As Label
+    Friend WithEvents lbl4 As Label
+    Friend WithEvents lbl2 As Label
+    Friend WithEvents lbl3 As Label
+    Friend WithEvents lbl5 As Label
+    Friend WithEvents lbl6 As Label
+    Friend WithEvents lbl7 As Label
+    Friend WithEvents lbl8 As Label
+    Friend WithEvents lbl9 As Label
+    Friend WithEvents lbl10 As Label
+    Friend WithEvents lbl20 As Label
+    Friend WithEvents lbl19 As Label
+    Friend WithEvents lbl18 As Label
+    Friend WithEvents lbl17 As Label
+    Friend WithEvents lbl16 As Label
+    Friend WithEvents lbl15 As Label
+    Friend WithEvents lbl14 As Label
+    Friend WithEvents lbl12 As Label
+    Friend WithEvents lbl13 As Label
+    Friend WithEvents lbl11 As Label
+    Friend WithEvents lbl30 As Label
+    Friend WithEvents lbl29 As Label
+    Friend WithEvents lbl28 As Label
+    Friend WithEvents lbl27 As Label
+    Friend WithEvents lbl26 As Label
+    Friend WithEvents lbl25 As Label
+    Friend WithEvents lbl23 As Label
+    Friend WithEvents lbl22 As Label
+    Friend WithEvents lbl24 As Label
+    Friend WithEvents lbl21 As Label
+    Friend WithEvents lbl40 As Label
+    Friend WithEvents lbl39 As Label
+    Friend WithEvents lbl38 As Label
+    Friend WithEvents lbl37 As Label
+    Friend WithEvents lbl36 As Label
+    Friend WithEvents lbl35 As Label
+    Friend WithEvents lbl33 As Label
+    Friend WithEvents lbl32 As Label
+    Friend WithEvents lbl34 As Label
+    Friend WithEvents lbl31 As Label
+    Friend WithEvents lbl50 As Label
+    Friend WithEvents lbl49 As Label
+    Friend WithEvents lbl48 As Label
+    Friend WithEvents lbl47 As Label
+    Friend WithEvents lbl46 As Label
+    Friend WithEvents lbl45 As Label
+    Friend WithEvents lbl43 As Label
+    Friend WithEvents lbl42 As Label
+    Friend WithEvents lbl44 As Label
+    Friend WithEvents lbl41 As Label
+    Friend WithEvents lbl60 As Label
+    Friend WithEvents lbl59 As Label
+    Friend WithEvents lbl58 As Label
+    Friend WithEvents lbl57 As Label
+    Friend WithEvents lbl56 As Label
+    Friend WithEvents lbl555 As Label
+    Friend WithEvents lbl53 As Label
+    Friend WithEvents lbl52 As Label
+    Friend WithEvents lbl54 As Label
+    Friend WithEvents lbl51 As Label
     Friend WithEvents Label61 As Label
     Friend WithEvents Label62 As Label
     Friend WithEvents Label63 As Label
     Friend WithEvents Label64 As Label
     Friend WithEvents Label65 As Label
     Friend WithEvents Label66 As Label
-    Friend WithEvents Label67 As Label
-    Friend WithEvents Label68 As Label
+    Friend WithEvents lbl63 As Label
+    Friend WithEvents lbl62 As Label
     Friend WithEvents Label69 As Label
-    Friend WithEvents Label70 As Label
+    Friend WithEvents lbl61 As Label
     Friend WithEvents Label71 As Label
     Friend WithEvents Label72 As Label
     Friend WithEvents Label73 As Label
@@ -1211,7 +1211,11 @@ Partial Class Form1
 
     End Sub
 
-    Private Sub Label43_Click(sender As Object, e As EventArgs) Handles Label43.Click
+    Private Sub Label43_Click(sender As Object, e As EventArgs) Handles lbl48.Click
+
+    End Sub
+
+    Private Sub Label51_Click(sender As Object, e As EventArgs) Handles lbl60.Click
 
     End Sub
 End Class
