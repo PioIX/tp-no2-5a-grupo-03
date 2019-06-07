@@ -1,25 +1,32 @@
 ﻿Public Class Form1
-    Dim quesito(90) As Label
-    Private Sub duplicarlabels()
-
-        For i = 1 To 90
-            quesito(i) = New Label()
-            Me.Controls.Add(quesito(i))
-            quesito(1).Left = 20
-            quesito(1).Top = 20
-            quesito(i).Visible = True
-            quesito(i).Width = 40
-            quesito(i).Height = 40
-            quesito(i).Text = i
-            If i <> 1 Then
-                quesito(i).Left = quesito(i - 1).Left + 80
-                quesito(i).Top = quesito(i - 1).Top + 80
-            End If
-
-        Next
-    End Sub
+    Dim j As Integer
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        duplicarlabels()
+        Dim botones As New List(Of Button)
+        Dim boton As New Button()
+        For k = 0 To 9 Step 1
+
+            For l = 0 To 9 Step 1
+                j = l & k
+                If l & k = 100 Then
+                    boton.Text = 100
+                Else
+                    boton.Text = j + 1
+                End If
+                boton.Location = New Point(k * 80, l * 60)
+                botones.Add(boton)
+                boton.Enabled = True
+                boton.Height = 60
+                boton.Width = 80
+                boton.Font = New Font("Arial", 20, FontStyle.Bold)
+                boton = New Button()
+                Me.Controls.AddRange(botones.ToArray())
+            Next
+
+        Next
+
     End Sub
+
+
+
 End Class
