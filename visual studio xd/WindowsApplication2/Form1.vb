@@ -1,32 +1,17 @@
-﻿Public Class Form1
-    Dim j As Integer
+﻿Dim numberOfButtons As Integer
+Dim buttons() As Button
 
-    Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-        Dim botones As New List(Of Button)
-        Dim boton As New Button()
-        For k = 0 To 9 Step 1
-
-            For l = 0 To 9 Step 1
-                j = l & k
-                If l & k = 100 Then
-                    boton.Text = 100
-                Else
-                    boton.Text = j + 1
-                End If
-                boton.Location = New Point(k * 80, l * 60)
-                botones.Add(boton)
-                boton.Enabled = True
-                boton.Height = 60
-                boton.Width = 80
-                boton.Font = New Font("Arial", 20, FontStyle.Bold)
-                boton = New Button()
-                Me.Controls.AddRange(botones.ToArray())
-            Next
-
-        Next
-
-    End Sub
-
-
-
-End Class
+Private Sub MyForm_Load(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles MyBase.Load
+    ReDim buttons(numberOfButtons)
+    For counter As Integer = 0 To numberOfButtons
+        With buttons(counter)
+            .Size = (10, 10)
+            .Visible = False
+            .Location = (55, 33 + counter * 13)
+            .Text = "Button " + (counter + 1).ToString ' or some name from an array you pass from main
+            'any other property
+            AddHandler buttons(counter).Clicked AddressOf All_Buttons_Clicked
+        End With
+        '
+    Next
+End Sub
